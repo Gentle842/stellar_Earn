@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2772-document-the-backend-background-worker-scaling",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2772-document-the-backend-background-worker-scaling": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2772-document-the-backend-background-worker-scaling",
+    "origin"
+  ]
+}
